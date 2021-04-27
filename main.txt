@@ -2,3 +2,6 @@ Resep masakan Ayam kecap
 Bahan :
 1. Ayam
 2. Kecap
+  - manis
+  - asin
+3. Bawang
